@@ -1,6 +1,6 @@
 # muttrc 
 
-- **Edit** 'muttrc' file with your email informations.
+- **Edit** 'muttrc' file with details of your email account.
 
 - **Move** 'muttrc' to your 'Home' directory.
 
