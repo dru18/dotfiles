@@ -2,14 +2,14 @@
 
 ![vimrc.png](https://github.com/dru18/dotfiles/blob/master/vim/vimrc.png)
 
-- **Jump** to your 'Home' directory.
+- **Move** 'vimrc' to your 'Home' directory.
+
+  `mv vimrc $HOME`
+
+- **Jump** into your 'Home' directory.
 
   `cd $HOME`
-
-- **Download** 'vimrc' file.
-
-  `wget https://github.com/dru18/dotfiles/blob/master/vim/vimrc`
-
+  
 - **Rename** 'vimrc' file to '.vimrc'.
 
   `mv vimrc .vimrc`
