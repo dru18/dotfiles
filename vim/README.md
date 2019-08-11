@@ -1,4 +1,4 @@
-# dotfiles 
+# vimrc 
 
 ![vimrc.png](https://github.com/dru18/dotfiles/blob/master/vim/vimrc.png)
 
