@@ -1,5 +1,7 @@
 # muttrc 
 
+- **Edit** 'muttrc' file with your email informations.
+
 - **Move** 'muttrc' to your 'Home' directory.
 
   `mv muttrc $HOME`
