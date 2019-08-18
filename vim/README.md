@@ -1,6 +1,6 @@
 # vimrc 
 
-![vimrc.png](https://github.com/dru18/dotfiles/blob/master/vim/vimrc.png)
+![vimrc.png](https://github.com/dru18/dotfiles/blob/master/vim/screenshots/vimrc.png)
 
 - **Move** 'vimrc' to your 'Home' directory.
 
